@@ -1,4 +1,4 @@
-package com.zxk.common;
+package com.my.common;
 
 /**
  * Created by zhuxiaokang on 2018/3/20.
